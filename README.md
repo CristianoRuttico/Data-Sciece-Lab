@@ -1,2 +1,2 @@
-# Data-Sciece-Lab
+# Data-Science-Lab
 University project on time series
